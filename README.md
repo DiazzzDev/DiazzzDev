@@ -1,5 +1,6 @@
-## Hi there 👋 Im Edwin Díaz
-
+<p align="center">
+  <img src="https://github.com/DiazzzDev/DiazzzDev/blob/main/github-header-banner.png" alt="Edwin Díaz - Backend Developer" />
+</p>
 <!--
 Here are some ideas to get you started:
 
@@ -12,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📫 How to reach me: ed.diaz.hz@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
@@ -51,11 +51,6 @@ XML               7 hrs 17 mins   ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓�
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-### Hosting
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ### Tools
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
