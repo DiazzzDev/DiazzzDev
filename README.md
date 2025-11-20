@@ -76,6 +76,7 @@ TypeScript        10 hrs 52 mins  ▯▮▮▮▮▮▮▮▮▮▮▮▮▮▮�
     </td>
   </tr>
 </table>
+
 ## Contributions & Collaboration
 
 - Open to contributions and collaboration on Spring Boot or backend related proyects.
