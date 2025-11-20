@@ -49,7 +49,7 @@ TypeScript        10 hrs 52 mins  ▯▮▮▮▮▮▮▮▮▮▮▮▮▮▮�
     </td>
   </tr>
   <tr>
-    <td><strong>Bases de Datos</strong></td>
+    <td><strong>Databases</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
       <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -66,7 +66,7 @@ TypeScript        10 hrs 52 mins  ▯▮▮▮▮▮▮▮▮▮▮▮▮▮▮�
     </td>
   </tr>
   <tr>
-    <td><strong>Herramientas</strong></td>
+    <td><strong>Tools</strong></td>
     <td>
       <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
@@ -76,7 +76,6 @@ TypeScript        10 hrs 52 mins  ▯▮▮▮▮▮▮▮▮▮▮▮▮▮▮�
     </td>
   </tr>
 </table>
-
 ##  Contributions & Collaboration
 
 - Open to contributions and collaboration on Spring Boot or backend related proyects.
