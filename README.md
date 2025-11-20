@@ -1,6 +1,3 @@
-<p align="center">
-  <img height="150" src="https://github.com/DiazzzDev/DiazzzDev/blob/main/github-header-banner.png" alt="Edwin Díaz - Backend Developer" />
-</p>
 <!--
 Here are some ideas to get you started:
 
@@ -13,6 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Stats
 <!--START_SECTION:waka-->
 
 ```txt
@@ -60,7 +58,7 @@ TypeScript        10 hrs 52 mins  ▯▮▮▮▮▮▮▮▮▮▮▮▮▮▮�
     </td>
   </tr>
   <tr>
-    <td><strong>DevOps / Hosting</strong></td>
+    <td><strong>Hosting</strong></td>
     <td>
       <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
       <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
