@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2025 - To: 23 November 2025
+From: 12 August 2025 - To: 24 November 2025
 
-Total Time: 365 hrs 24 mins
+Total Time: 365 hrs 38 mins
 
-Java              228 hrs 54 mins ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▮▮▮▮▮▮▮▮▮   62.63 %
-JavaScript        43 hrs 5 mins   ▯▯▯▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮   11.79 %
+Java              228 hrs 54 mins ▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▮▮▮▮▮▮▮▮▮   62.59 %
+JavaScript        43 hrs 19 mins  ▯▯▯▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮   11.84 %
 HTML              23 hrs 41 mins  ▯▯▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮   06.48 %
 SQL               20 hrs 55 mins  ▯▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮   05.72 %
-CSS               12 hrs 30 mins  ▯▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮   03.42 %
+CSS               12 hrs 31 mins  ▯▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮   03.42 %
 TypeScript        12 hrs 5 mins   ▯▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮   03.31 %
 ```
 
