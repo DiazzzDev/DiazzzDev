@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2025 - To: 27 November 2025
+From: 12 August 2025 - To: 28 November 2025
 
-Total Time: 378 hrs 47 mins
+Total Time: 384 hrs 18 mins
 
-Java              228 hrs 54 mins ▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▣▣▣▣▣▣▣▣▣▣   60.36 %
-JavaScript        44 hrs 29 mins  ▢▢▢▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣   11.73 %
-SQL               28 hrs 43 mins  ▢▢▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣   07.58 %
-HTML              23 hrs 49 mins  ▢▢▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣   06.28 %
-CSS               13 hrs 40 mins  ▢▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣   03.60 %
-TypeScript        12 hrs 45 mins  ▢▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣   03.37 %
+Java              228 hrs 54 mins ▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▣▣▣▣▣▣▣▣▣▣   59.50 %
+JavaScript        44 hrs 29 mins  ▢▢▢▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣   11.56 %
+SQL               29 hrs 13 mins  ▢▢▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣   07.60 %
+HTML              23 hrs 49 mins  ▢▢▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣   06.19 %
+TypeScript        16 hrs 54 mins  ▢▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣   04.39 %
+CSS               13 hrs 40 mins  ▢▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣   03.55 %
 ```
 
 <!--END_SECTION:waka-->
