@@ -1,16 +1,15 @@
-# Edwin Díaz — Backend Developer | Spring Boot | Java
+# Edwin Díaz | Backend Developer • Spring Boot [![committers.top badge](https://user-badge.committers.top/el_salvador_private/DiazzzDev.svg)](https://user-badge.committers.top/el_salvador_private/DiazzzDev)
 
-### Ranked [![committers.top badge](https://user-badge.committers.top/el_salvador/DiazzzDev.svg)](https://user-badge.committers.top/el_salvador/DiazzzDev) Most Active GitHub Users in El Salvador
+### Ranked top 71 Most Active GitHub Users in El Salvador
 
----
+--
 
-I am currently enhancing my expertise in:  
-- Backend architecture and system design  
-- Database modeling and optimization (PostgreSQL, SQL Server)  
-- Automated testing (JUnit, Mockito, Testcontainers)  
-- Containerization and DevOps fundamentals (Docker, CI/CD)
+### I am currently enhancing my expertise in:  
+- Backend architecture and system design with the industry standards  
+- Database modeling and optimization (PostgreSQL, MongoDB)  
+- Containerization and DevOps fundamentals (Devcontainers and pipelines)
 
----
+--
 
 ## Stats
 <!--START_SECTION:waka-->
