@@ -2,14 +2,10 @@
 
 ### Ranked top 71 Most Active GitHub Users in El Salvador
 
---
-
 ### I am currently enhancing my expertise in:  
 - Backend architecture and system design with the industry standards  
 - Database modeling and optimization (PostgreSQL, MongoDB)  
 - Containerization and DevOps fundamentals (Devcontainers and pipelines)
-
---
 
 ## Stats
 <!--START_SECTION:waka-->
