@@ -30,10 +30,11 @@ CSS               13 hrs 51 mins  ▢▣▣▣▣▣▣▣▣▣▣▣▣▣▣�
     <td><strong>Backend</strong></td>
     <td>
       <img src="https://img.shields.io/badge/java-%0d1117.svg?style=for-the-badge&logo=openjdk&logoColor=FFA500"/>
-      <img src="https://img.shields.io/badge/spring-%0d1117.svg?style=for-the-badge&logo=spring&logoColor=236DB33F"/>
-      <img src="https://img.shields.io/badge/node.js-%0d1117?style=for-the-badge&logo=node.js&logoColor=6DA55F"/>
-      <img src="https://img.shields.io/badge/Bun-%0d1117.svg?style=for-the-badge&logo=bun&logoColor=%white"/>
-      <img src="https://img.shields.io/badge/c%23-%0d1117.svg?style=for-the-badge&logo=csharp&logoColor=%23239120"/>
+      <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FFA500&color=0d1117"/>
+      <img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=6DB33F&color=0d1117"/>
+      <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=6DA55F&color=0d1117"/>
+      <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white&color=0d1117"/>
+      <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=239120&color=0d1117"/>
     </td>
   </tr>
   <tr>
