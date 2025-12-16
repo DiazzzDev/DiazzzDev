@@ -29,51 +29,51 @@ CSS               13 hrs 51 mins  ▢▣▣▣▣▣▣▣▣▣▣▣▣▣▣�
   <tr>
     <td><strong>Backend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=openjdk&logoColor=FFA500"/>
-      <img src="https://img.shields.io/badge/spring-%23323330.svg?style=for-the-badge&logo=spring&logoColor=236DB33F"/>
-      <img src="https://img.shields.io/badge/node.js-%23323330?style=for-the-badge&logo=node.js&logoColor=6DA55F"/>
-      <img src="https://img.shields.io/badge/Bun-%23323330.svg?style=for-the-badge&logo=bun&logoColor=%23000000"/>
-      <img src="https://img.shields.io/badge/c%23-%23323330.svg?style=for-the-badge&logo=csharp&logoColor=%23239120"/>
+      <img src="https://img.shields.io/badge/java-%0d1117.svg?style=for-the-badge&logo=openjdk&logoColor=FFA500"/>
+      <img src="https://img.shields.io/badge/spring-%0d1117.svg?style=for-the-badge&logo=spring&logoColor=236DB33F"/>
+      <img src="https://img.shields.io/badge/node.js-%0d1117?style=for-the-badge&logo=node.js&logoColor=6DA55F"/>
+      <img src="https://img.shields.io/badge/Bun-%0d1117.svg?style=for-the-badge&logo=bun&logoColor=%white"/>
+      <img src="https://img.shields.io/badge/c%23-%0d1117.svg?style=for-the-badge&logo=csharp&logoColor=%23239120"/>
     </td>
   </tr>
   <tr>
     <td><strong>Frontend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-      <img src="https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26"/>
-      <img src="https://img.shields.io/badge/css-%23323330.svg?style=for-the-badge&logo=css&logoColor=%23663399"/>
-      <img src="https://img.shields.io/badge/figma-%23323330.svg?style=for-the-badge&logo=figma&logoColor=eb387d"/>
+      <img src="https://img.shields.io/badge/javascript-%151b23.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+      <img src="https://img.shields.io/badge/html5-%151b23.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26"/>
+      <img src="https://img.shields.io/badge/css-%151b23.svg?style=for-the-badge&logo=css&logoColor=%23663399"/>
+      <img src="https://img.shields.io/badge/figma-%151b23.svg?style=for-the-badge&logo=figma&logoColor=eb387d"/>
     </td>
   </tr>
   <tr>
     <td><strong>Databases</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Oracle-%23323330?style=for-the-badge&logo=oracle&logoColor=%F80000"/>
-      <img src="https://img.shields.io/badge/postgres-%23323330.svg?style=for-the-badge&logo=postgresql&logoColor=23316192"/>
-      <img src="https://img.shields.io/badge/MongoDB-%23323330.svg?style=for-the-badge&logo=mongodb&logoColor=234ea94b"/>
-      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%23323330?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Oracle-%0d1117?style=for-the-badge&logo=oracle&logoColor=%F80000"/>
+      <img src="https://img.shields.io/badge/postgres-%0d1117.svg?style=for-the-badge&logo=postgresql&logoColor=23316192"/>
+      <img src="https://img.shields.io/badge/MongoDB-%0d1117.svg?style=for-the-badge&logo=mongodb&logoColor=234ea94b"/>
+      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%0d1117?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td><strong>Hosting</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-      <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
-      <img src="https://img.shields.io/badge/heroku-%23000000.svg?style=for-the-badge&logo=heroku&logoColor=23430098"/>
-      <img src="https://img.shields.io/badge/Supabase-%23000000?style=for-the-badge&logo=supabase&logoColor=236DB33F"/>
+      <img src="https://img.shields.io/badge/vercel-%151b23.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/netlify-%151b23.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
+      <img src="https://img.shields.io/badge/heroku-%151b23.svg?style=for-the-badge&logo=heroku&logoColor=23430098"/>
+      <img src="https://img.shields.io/badge/Supabase-%151b23?style=for-the-badge&logo=supabase&logoColor=236DB33F"/>
     </td>
   </tr>
   <tr>
     <td><strong>Tools</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=%23F05033"/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-23000000?style=for-the-badge&logo=github-actions&logoColor=%2088FF"/>
-      <img src="https://img.shields.io/badge/jira-%23000000.svg?style=for-the-badge&logo=jira&logoColor=%230A0FFF"/>
-      <img src="https://img.shields.io/badge/Postman-%23000000?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
-      <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=%23d62a29"/>
-      <img src="https://img.shields.io/badge/apache_maven-%23000000?style=for-the-badge&logo=apachemaven&logoColor=C71A36"/>
-      <img src="https://img.shields.io/badge/WakaTime-%23323330?style=for-the-badge&logo=WakaTime&logoColor=white"/>
+      <img src="https://img.shields.io/badge/github-%0d1117.svg?style=for-the-badge&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/git-%0d1117.svg?style=for-the-badge&logo=git&logoColor=%23F05033"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-%0d1117?style=for-the-badge&logo=github-actions&logoColor=%2088FF"/>
+      <img src="https://img.shields.io/badge/jira-%0d1117.svg?style=for-the-badge&logo=jira&logoColor=%230A0FFF"/>
+      <img src="https://img.shields.io/badge/Postman-%0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+      <img src="https://img.shields.io/badge/NPM-%0d1117.svg?style=for-the-badge&logo=npm&logoColor=%23d62a29"/>
+      <img src="https://img.shields.io/badge/apache_maven-%0d1117?style=for-the-badge&logo=apachemaven&logoColor=C71A36"/>
+      <img src="https://img.shields.io/badge/WakaTime-%0d1117?style=for-the-badge&logo=WakaTime&logoColor=white"/>
     </td>
   </tr>
 </table>
