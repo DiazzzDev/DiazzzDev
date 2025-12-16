@@ -24,12 +24,13 @@ CSS               13 hrs 51 mins  ▢▣▣▣▣▣▣▣▣▣▣▣▣▣▣�
 ```
 
 <!--END_SECTION:waka-->
+
 ## Tech Stack
+
 <table>
   <tr>
     <td><strong>Backend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/java-%0d1117.svg?style=for-the-badge&logo=openjdk&logoColor=FFA500"/>
       <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FFA500&color=0d1117"/>
       <img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=6DB33F&color=0d1117"/>
       <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=6DA55F&color=0d1117"/>
@@ -37,44 +38,48 @@ CSS               13 hrs 51 mins  ▢▣▣▣▣▣▣▣▣▣▣▣▣▣▣�
       <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=239120&color=0d1117"/>
     </td>
   </tr>
+
   <tr>
     <td><strong>Frontend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/javascript-%151b23.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-      <img src="https://img.shields.io/badge/html5-%151b23.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26"/>
-      <img src="https://img.shields.io/badge/css-%151b23.svg?style=for-the-badge&logo=css&logoColor=%23663399"/>
-      <img src="https://img.shields.io/badge/figma-%151b23.svg?style=for-the-badge&logo=figma&logoColor=eb387d"/>
+      <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=151b23"/>
+      <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26&color=151b23"/>
+      <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=663399&color=151b23"/>
+      <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=EB387D&color=151b23"/>
     </td>
   </tr>
+
   <tr>
     <td><strong>Databases</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Oracle-%0d1117?style=for-the-badge&logo=oracle&logoColor=%F80000"/>
-      <img src="https://img.shields.io/badge/postgres-%0d1117.svg?style=for-the-badge&logo=postgresql&logoColor=23316192"/>
-      <img src="https://img.shields.io/badge/MongoDB-%0d1117.svg?style=for-the-badge&logo=mongodb&logoColor=234ea94b"/>
-      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%0d1117?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=F80000&color=0d1117"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=316192&color=0d1117"/>
+      <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=4EA94B&color=0d1117"/>
+      <img src="https://img.shields.io/badge/Microsoft_SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&color=0d1117"/>
     </td>
   </tr>
+
   <tr>
     <td><strong>Hosting</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/vercel-%151b23.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-      <img src="https://img.shields.io/badge/netlify-%151b23.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
-      <img src="https://img.shields.io/badge/heroku-%151b23.svg?style=for-the-badge&logo=heroku&logoColor=23430098"/>
-      <img src="https://img.shields.io/badge/Supabase-%151b23?style=for-the-badge&logo=supabase&logoColor=236DB33F"/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&color=151b23"/>
+      <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7&color=151b23"/>
+      <img src="https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=heroku&logoColor=430098&color=151b23"/>
+      <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3ECF8E&color=151b23"/>
     </td>
   </tr>
+
   <tr>
     <td><strong>Tools</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/github-%0d1117.svg?style=for-the-badge&logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/git-%0d1117.svg?style=for-the-badge&logo=git&logoColor=%23F05033"/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-%0d1117?style=for-the-badge&logo=github-actions&logoColor=%2088FF"/>
-      <img src="https://img.shields.io/badge/jira-%0d1117.svg?style=for-the-badge&logo=jira&logoColor=%230A0FFF"/>
-      <img src="https://img.shields.io/badge/Postman-%0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
-      <img src="https://img.shields.io/badge/NPM-%0d1117.svg?style=for-the-badge&logo=npm&logoColor=%23d62a29"/>
-      <img src="https://img.shields.io/badge/apache_maven-%0d1117?style=for-the-badge&logo=apachemaven&logoColor=C71A36"/>
-      <img src="https://img.shields.io/badge/WakaTime-%0d1117?style=for-the-badge&logo=WakaTime&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&color=0d1117"/>
+      <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05033&color=0d1117"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=2088FF&color=0d1117"/>
+      <img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=0A0FFF&color=0d1117"/>
+      <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37&color=0d1117"/>
+      <img src="https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=CB3837&color=0d1117"/>
+      <img src="https://img.shields.io/badge/Apache_Maven-000000?style=for-the-badge&logo=apachemaven&logoColor=C71A36&color=0d1117"/>
+      <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white&color=0d1117"/>
     </td>
   </tr>
 </table>
