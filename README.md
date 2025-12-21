@@ -11,16 +11,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2025 - To: 20 December 2025
+From: 12 August 2025 - To: 21 December 2025
 
-Total Time: 434 hrs 2 mins
+Total Time: 434 hrs 25 mins
 
-Java              239 hrs 56 mins ▢▢▢▢▢▢▢▢▢▢▢▢▢▢▣▣▣▣▣▣▣▣▣▣▣   55.18 %
-JavaScript        45 hrs 29 mins  ▢▢▢▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣   10.46 %
+Java              240 hrs 19 mins ▢▢▢▢▢▢▢▢▢▢▢▢▢▢▣▣▣▣▣▣▣▣▣▣▣   55.22 %
+JavaScript        45 hrs 29 mins  ▢▢▢▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣   10.45 %
 TypeScript        34 hrs 58 mins  ▢▢▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣   08.04 %
-SQL               34 hrs 1 min    ▢▢▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣   07.83 %
+SQL               34 hrs 1 min    ▢▢▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣   07.82 %
 HTML              23 hrs 49 mins  ▢▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣   05.48 %
-CSS               13 hrs 51 mins  ▢▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣   03.19 %
+CSS               13 hrs 51 mins  ▢▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣   03.18 %
 ```
 
 <!--END_SECTION:waka-->
