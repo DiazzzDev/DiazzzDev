@@ -1,18 +1,15 @@
 # Edwin Díaz | Backend Developer • Spring Boot [![committers.top badge](https://user-badge.committers.top/el_salvador_private/DiazzzDev.svg)](https://user-badge.committers.top/el_salvador_private/DiazzzDev)
 
-### Ranked top 72 Most Active GitHub Users in El Salvador
-
 ### I am currently enhancing my expertise in:  
-- Backend architecture and system design with the industry standards  
-- Database modeling and optimization (PostgreSQL, MongoDB)  
-- Containerization and DevOps fundamentals (Devcontainers and pipelines)
+- Backend architecture and system design following layered architecture
+- Improving productivity with Dockerized Dev Containers, standardizing development environments  
+- DevOps fundamentals with CI/CD pipelines for automated testing and quality
 
 ## Stats
 <!--START_SECTION:waka-->
 
 ```txt
 From: 12 August 2025 - To: 24 December 2025
-
 Total Time: 435 hrs 12 mins
 
 Java              240 hrs 19 mins ▢▢▢▢▢▢▢▢▢▢▢▢▢▢▣▣▣▣▣▣▣▣▣▣▣   55.12 %
@@ -45,7 +42,6 @@ CSS               13 hrs 51 mins  ▢▣▣▣▣▣▣▣▣▣▣▣▣▣▣�
       <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=151b23"/>
       <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26&color=151b23"/>
       <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=663399&color=151b23"/>
-      <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=EB387D&color=151b23"/>
     </td>
   </tr>
 
@@ -54,18 +50,8 @@ CSS               13 hrs 51 mins  ▢▣▣▣▣▣▣▣▣▣▣▣▣▣▣�
     <td>
       <img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=F80000&color=0d1117"/>
       <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=316192&color=0d1117"/>
-      <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=4EA94B&color=0d1117"/>
-      <img src="https://img.shields.io/badge/Microsoft_SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&color=0d1117"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>Hosting</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&color=151b23"/>
-      <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7&color=151b23"/>
-      <img src="https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=heroku&logoColor=430098&color=151b23"/>
       <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3ECF8E&color=151b23"/>
+      <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=4EA94B&color=0d1117"/>
     </td>
   </tr>
 
@@ -74,17 +60,15 @@ CSS               13 hrs 51 mins  ▢▣▣▣▣▣▣▣▣▣▣▣▣▣▣�
     <td>
       <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&color=0d1117"/>
       <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05033&color=0d1117"/>
+      <img src="https://img.shields.io/badge/Apache_Maven-000000?style=for-the-badge&logo=apachemaven&logoColor=C71A36&color=0d1117"/>
       <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=2088FF&color=0d1117"/>
       <img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=0A0FFF&color=0d1117"/>
-      <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37&color=0d1117"/>
-      <img src="https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=CB3837&color=0d1117"/>
-      <img src="https://img.shields.io/badge/Apache_Maven-000000?style=for-the-badge&logo=apachemaven&logoColor=C71A36&color=0d1117"/>
-      <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white&color=0d1117"/>
     </td>
   </tr>
 </table>
 
 ## Contributions & Collaboration
 
+- Consistent contributor (Top 70 most active in El Salvador, committers.top)
 - Open to contributions and collaboration on Spring Boot or backend related proyects.
 - If you're interested in partnering on a project, please don't hesitate to reach out.
