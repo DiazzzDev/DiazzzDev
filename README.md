@@ -1,9 +1,9 @@
 # Edwin Díaz | Backend Developer • Spring Boot [![committers.top badge](https://user-badge.committers.top/el_salvador_private/DiazzzDev.svg)](https://user-badge.committers.top/el_salvador_private/DiazzzDev)
 
-### I am currently enhancing my expertise in:  
-- Backend architecture and system design following layered architecture
-- Improving productivity with Dockerized Dev Containers, standardizing development environments  
-- DevOps fundamentals with CI/CD pipelines for automated testing and quality
+### Current focus:  
+- Backend architecture and system design following layered architecture.
+- Leveraging Docker to optimize local development and production with Dev Containers.
+- DevOps fundamentals with CI/CD pipelines for automated testing and quality.
 
 ## Stats
 <!--START_SECTION:waka-->
@@ -21,48 +21,17 @@ SQL               34 hrs 1 min    ██░░░░░░░░░░░░░�
 
 ## Tech Stack
 
-<table>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FFA500&color=0d1117"/>
-      <img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=6DB33F&color=0d1117"/>
-      <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=6DA55F&color=0d1117"/>
-      <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white&color=0d1117"/>
-      <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=239120&color=0d1117"/>
-    </td>
-  </tr>
+Core Stack:
+Java, Spring Boot, Spring Security, JPA/Hibernate
 
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=151b23"/>
-      <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26&color=151b23"/>
-      <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=663399&color=151b23"/>
-    </td>
-  </tr>
+Databases:
+PostgreSQL (Supabase for deployment), Oracle (OCI Autonomous Database)
 
-  <tr>
-    <td><strong>Databases</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=F80000&color=0d1117"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=316192&color=0d1117"/>
-      <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3ECF8E&color=151b23"/>
-      <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=4EA94B&color=0d1117"/>
-    </td>
-  </tr>
+Backend Practices:
+JWT-based Authentication & Authorization, layered architecture, database modeling, transactional systems, unit testing
 
-  <tr>
-    <td><strong>Tools</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&color=0d1117"/>
-      <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05033&color=0d1117"/>
-      <img src="https://img.shields.io/badge/Apache_Maven-000000?style=for-the-badge&logo=apachemaven&logoColor=C71A36&color=0d1117"/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=2088FF&color=0d1117"/>
-      <img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=0A0FFF&color=0d1117"/>
-    </td>
-  </tr>
-</table>
+Infrastructure & Tooling:
+Git, GitHub Actions (CI/CD), Maven, Dev Containers, Postman, Jira
 
 ## Contributions & Collaboration
 
