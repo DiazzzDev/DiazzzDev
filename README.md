@@ -19,21 +19,21 @@ SQL               34 hrs 1 min    ██░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-## Tech Stack
+## Core competencies
 
-Core Stack:
-Java, Spring Boot, Spring Security, JPA/Hibernate
+Backend:
+Java 17+, Spring Boot, Spring Security, JPA/Hibernate
 
 Databases:
 PostgreSQL (Supabase for deployment), Oracle (OCI Autonomous Database)
 
-Backend Practices:
-JWT-based Authentication & Authorization, layered architecture, database modeling, transactional systems, unit testing
+Backend practices:
+JWT-based authentication, layered architecture, database modeling, transactional systems, unit testing
 
-Infrastructure & Tooling:
-Git, GitHub Actions (CI/CD), Maven, Dev Containers, Postman, Jira
+DevOps & tools:
+Git, GitHub actions (CI/CD), Maven, Docker (Dev Containers), Postman, Jira
 
-## Contributions & Collaboration
+## Contributions & collaboration
 
 - Consistent contributor (Top 70 most active in El Salvador, committers.top)
 - Open to contributions and collaboration on Spring Boot or backend related proyects.
