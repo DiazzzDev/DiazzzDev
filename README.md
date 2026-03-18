@@ -9,12 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 556 hrs 8 mins
+Total Time: 559 hrs 40 mins
 
-Java                289 hrs 52 mins       █████████████░░░░░░░░░░░░   52.02 %
-TypeScript          65 hrs 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
-JavaScript          55 hrs 39 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
-SQL                 37 hrs 37 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+Java                290 hrs 51 mins       █████████████░░░░░░░░░░░░   51.87 %
+TypeScript          67 hrs 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
+JavaScript          55 hrs 39 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
+SQL                 37 hrs 37 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
 ```
 
 <!--END_SECTION:waka-->
