@@ -22,19 +22,18 @@ SQL                 37 hrs 37 mins        █▓░░░░░░░░░░�
 ## Core competencies
 
 Backend:
-Java 17+, Spring Boot, Spring Security, JPA/Hibernate
+Java, Spring Boot, Spring Security, JPA/Hibernate
 
 Databases:
-PostgreSQL (Supabase for deployment), Oracle (OCI Autonomous Database)
+PostgreSQL, Oracle (OCI Autonomous Database)
 
 Backend practices:
 JWT-based authentication, layered architecture, database modeling, transactional systems, unit testing
 
 DevOps & tools:
-Git, GitHub actions (CI/CD), Maven, Docker (Dev Containers), Postman, Jira
+Git, GitHub actions (CI/CD), Maven, Docker (Dev Containers), Jira
 
 ## Contributions & collaboration
 
-- Consistent contributor (Top 70 most active in El Salvador, committers.top)
 - Open to contributions and collaboration on Spring Boot or backend related proyects.
 - If you're interested in partnering on a project, please don't hesitate to reach out.
