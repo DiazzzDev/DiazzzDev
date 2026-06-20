@@ -13,7 +13,6 @@ Total Time: 794 hrs 9 mins
 Java                329 hrs 46 mins       ██████████▒░░░░░░░░░░░░░░   41.25 %
 JavaScript          157 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   19.72 %
 TypeScript          119 hrs 16 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 %
-SQL                 37 hrs 49 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
 ```
 
 <!--END_SECTION:waka-->
