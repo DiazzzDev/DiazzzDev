@@ -20,15 +20,15 @@ TypeScript          119 hrs 16 mins       ███▓░░░░░░░░�
 ## Core competencies
 
 Backend:
-Java, Spring Boot, Spring Security, JPA/Hibernate, PrismaORM
+Java, Spring Boot, JPA/Hibernate, PrismaORM
 
 Databases:
 PostgreSQL, Oracle (OCI Autonomous Database)
 
 Backend practices:
-JWT and OAuth2 Authentication, database modeling, transactional systems, unit testing
+JWT and OAuth2 security, database modeling, transactional systems, unit testing
 
-DevOps & tools:
+DevOps:
 GitHub actions (CI/CD), Azure DevOps, Azure pipelines, Maven, Docker, Jira
 
 ## Contributions & collaboration
