@@ -19,5 +19,5 @@ jobs:
           BLOCKS: ""
           TIME_RANGE: "all_time"  # o last_7_days
           SHOW_TIME: "true"
-          SHOW_TOTAL: "true"
+          SHOW_TOTAL: "false"
           LANG_COUNT: 3
