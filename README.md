@@ -1,8 +1,10 @@
 # Edwin Díaz | Backend Developer • Spring Boot [![committers.top badge](https://user-badge.committers.top/el_salvador_private/DiazzzDev.svg)](https://user-badge.committers.top/el_salvador_private/DiazzzDev)
 
+Backend Developer with professional experience building enterprise applications and personal cloud-native projects.
+
 ### Current focus:  
-- Learn and apply AWS Fundamentals for reliable cloud applications.
-- DevOps fundamentals with CI/CD pipelines for automated testing and quality and enterprice level delivery.
+- Currently expanding my expertise in AWS Cloud, containerized deployments and CI/CD automation.
+- Building reliable backend applications following software engineering best practices.
 
 ## Stats
 <!--START_SECTION:waka-->
@@ -19,19 +21,19 @@ TypeScript          133 hrs 13 mins       ███▓░░░░░░░░�
 
 ## Core competencies
 
-Backend:
-Java, Spring Boot, JPA/Hibernate, PrismaORM
+**Backend**: Java, Spring Boot, JPA/Hibernate, System design, REST APIs
 
-Databases:
-PostgreSQL, Oracle (OCI Autonomous Database)
+**Databases**: PostgreSQL, Oracle Database
 
-Backend practices:
-JWT and OAuth2 security, database modeling, transactional systems, unit testing
+**Backend practices**: OAuth2 Resource Server, JWT, database modeling, unit testing
 
-DevOps:
-GitHub actions (CI/CD), Azure DevOps, Azure pipelines, Maven, Docker, Jira
+**DevOps**: AWS, GitHub actions, Azure DevOps, Docker, Jira
+
+## Featured project
+
+**BFlow Studio** — Cloud-native personal finance SaaS platform built with Java, Spring Boot, PostgreSQL, AWS and Docker. [Repo](https://github.com/DiazzzDev/BFlow-Financial-Engine)
 
 ## Contributions & collaboration
 
-- Open to contributions and collaboration on Spring Boot, NodeJs or backend related proyects.
-- If you're interested in partnering on a project, please don't hesitate to reach out.
+- Open to contributions and collaboration on Spring Boot, Node.js or backend related projects.
+- Feel free to reach out if you'd like to collaborate.
