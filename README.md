@@ -10,9 +10,9 @@ Backend Developer with professional experience building enterprise applications 
 <!--START_SECTION:waka-->
 
 ```txt
-Java                350 hrs 32 mins       █████████▓░░░░░░░░░░░░░░░   38.14 %
-JavaScript          228 hrs 46 mins       ██████▒░░░░░░░░░░░░░░░░░░   24.89 %
-TypeScript          134 hrs 4 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
+Java                350 hrs 33 mins       █████████▒░░░░░░░░░░░░░░░   37.86 %
+JavaScript          232 hrs 2 mins        ██████▒░░░░░░░░░░░░░░░░░░   25.06 %
+TypeScript          134 hrs 5 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 %
 ```
 
 <!--END_SECTION:waka-->
